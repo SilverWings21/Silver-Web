@@ -1,9 +1,11 @@
-background: linear-gradient(270deg, blue, silver);
-background-size: 400% 400%;
+body {
+  background: linear-gradient(217deg,#001981,#00ffeb);
+  background-size: 400%,400%;
+}
 
--webkit-animation: AnimationName 0s ease infinite;
--moz-animation: AnimationName 0s ease infinite;
-animation: AnimationName 0s ease infinite;
+-webkit-animation: AnimationName 15s ease infinite;
+-moz-animation: AnimationName 15s ease infinite;
+-animation: AnimationName 15s ease infinite;
 
 @-webkit-keyframes AnimationName {
     0%{background-position:0% 50%}
