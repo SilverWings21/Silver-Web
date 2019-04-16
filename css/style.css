@@ -3,9 +3,9 @@ body {
   background-size: 200%, 200%;
 }
 
--webkit-animation: grad 1s ease infinite;
--moz-animation: grad 1s ease infinite;
--animation: grad 1s ease infinite;
+-webkit-animation: grad 40s ease infinite;
+-moz-animation: grad 40s ease infinite;
+-animation: grad 40s ease infinite;
 
 @-webkit-keyframes grad {
     0%{background-position:0% 50%}
