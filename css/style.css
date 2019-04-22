@@ -2,7 +2,9 @@ body {
   background: linear-gradient(90deg, #0049ff, #4d5c81);
 background-size: 400% 400%;
 }
-
+* {
+  text-align: center;
+}
 
 -webkit-animation: AnimationName 4s ease infinite;
 -moz-animation: AnimationName 4s ease infinite;
